@@ -69,4 +69,4 @@ else:
     st.warning("Please enter a password to check its strength!")
 
 # Footer / Credits (optional)
-st.caption("Built with ❤️ using Streamlit")
+st.caption("Made with ❤️ Basit Ali")
